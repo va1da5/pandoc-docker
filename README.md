@@ -23,7 +23,7 @@ pandoc some-file.md \
 --toc-depth 6 \
 --number-sections \
 --top-level-division=chapter \
--F pandoc-crossref \
+--filter pandoc-crossref \
 --highlight-style tango
 ```
 
