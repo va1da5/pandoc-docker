@@ -36,6 +36,7 @@ pandoc some-file.md \
 ## References
 
 - [Pandoc User’s Guide](https://pandoc.org/MANUAL.html)
+- [Pandoc Extras](https://pandoc.org/extras.html)
 - [pandoc-crossref](https://lierdakil.github.io/pandoc-crossref/)
 - [Pandoc Syntax Highlighting Examples](https://www.garrickadenbuie.com/blog/pandoc-syntax-highlighting-examples/)
 - [Workflow With Pandoc Markdown Example [video]](https://www.youtube.com/watch?v=lMIlNsi3eAY&ab_channel=BrodieRobertson)
