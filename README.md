@@ -41,3 +41,5 @@ pandoc some-file.md \
 - [Pandoc Syntax Highlighting Examples](https://www.garrickadenbuie.com/blog/pandoc-syntax-highlighting-examples/)
 - [Workflow With Pandoc Markdown Example [video]](https://www.youtube.com/watch?v=lMIlNsi3eAY&ab_channel=BrodieRobertson)
 - [Customizing pandoc to generate beautiful pdf and epub from markdown](https://learnbyexample.github.io/customizing-pandoc/)
+- [The fvextra package](http://mirrors.ibiblio.org/CTAN/macros/latex/contrib/fvextra/fvextra.pdf)
+- [Number lines in code blocks with Rmarkdown](https://blog.atusy.net/submodules/rmd-line-num/index.html)
