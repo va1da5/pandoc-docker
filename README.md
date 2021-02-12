@@ -6,6 +6,8 @@ This repo will help you to build a dedicated container image with PanDoc and Lat
 
 ```bash
 docker build -t pandoc .
+# or
+make
 ```
 
 ## Usage
@@ -18,7 +20,7 @@ docker run --rm -it -v "${PWD}:/${PWD##*/}" -w "/${PWD##*/}" --user=$(id -u) pan
 pandoc some-file.md \
 -o some-file.pdf \
 --from markdown+yaml_metadata_block+raw_html \
---template eisvogel \
+--template eisvogel.latex \
 --table-of-contents \
 --toc-depth 6 \
 --number-sections \
